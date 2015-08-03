@@ -1,6 +1,6 @@
 {
   "name": "webpack-vendor-plugin",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Vendor plugin (separate out vendor files into a separate chunk) for webpack.",
   "main": "lib/vendor-plugin.js",
   "peerDependencies": {
