@@ -1,0 +1,30 @@
+{
+  "name": "webpack-vendor-plugin",
+  "version": "0.1.0",
+  "description": "Vendor plugin (separate out vendor files into a separate chunk) for webpack.",
+  "main": "lib/vendor-plugin.js",
+  "peerDependencies": {
+    "webpack": ">=1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mehcode/webpack-vendor-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "vendor"
+  ],
+  "author": {
+    "name": "Ryan Leckey",
+    "email": "leckey.ryan@gmail.com",
+    "url": "https://github.com/mehcode"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mehcode/webpack-vendor-plugin/issues"
+  },
+  "homepage": "https://github.com/mehcode/webpack-vendor-plugin",
+  "dependencies": {
+  }
+}
