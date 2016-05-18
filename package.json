@@ -1,6 +1,6 @@
 {
   "name": "webpack-vendor-plugin",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "description": "Vendor plugin (separate out vendor files into a separate chunk) for webpack.",
   "main": "lib/vendor-plugin.js",
   "peerDependencies": {
@@ -25,6 +25,5 @@
     "url": "https://github.com/mehcode/webpack-vendor-plugin/issues"
   },
   "homepage": "https://github.com/mehcode/webpack-vendor-plugin",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
